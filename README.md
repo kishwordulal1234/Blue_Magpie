@@ -1,5 +1,5 @@
 # 🔵 Blue_Magpie
-
+![Banner](image.png)
 ![License](https://img.shields.io/github/license/kishwordulal1234/Blue_Magpie)
 ![Stars](https://img.shields.io/github/stars/kishwordulal1234/Blue_Magpie)
 ![Forks](https://img.shields.io/github/forks/kishwordulal1234/Blue_Magpie)
