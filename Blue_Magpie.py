@@ -254,11 +254,11 @@ def setup_server(site_name):
     start_localhost(site_name)
 
 def about_me():
-    print(f"{colors.green}[{colors.white}+{colors.green}] {colors.yellow}Hi there I am Prince Kumar, I am a junior mechanical engineer, currently I am writing a book called Termux hacker")
+    print(f"{colors.green}[{colors.white}+{colors.green}] {colors.yellow}Hi there I am unknone hart, I am a  gray hat hacker r, currently I am studing in vs niketan collage ktm tinkune ")
     print()
-    print(f"{colors.green}[{colors.white}01{colors.green}] {colors.magenta}Youtube: https://bit.ly/3sAFWqM")
-    print(f"{colors.green}[{colors.white}02{colors.green}] {colors.magenta}Instagram: https://is.gd/B8EytP")
-    print(f"{colors.green}[{colors.white}03{colors.green}] {colors.magenta}Facebook: https://bit.ly/3z49Eaa")
+    print(f"{colors.green}[{colors.white}01{colors.green}] {colors.magenta}Youtube: https://www.youtube.com/@unknonehart9406")
+    print(f"{colors.green}[{colors.white}02{colors.green}] {colors.magenta}Instagram: https://www.instagram.com/un1kn0n3_h4rt/")
+    print(f"{colors.green}[{colors.white}03{colors.green}] {colors.magenta}Facebook: https://www.facebook.com/kishwor.dulal.19")
     
     choice = input("Choose option: ")
     
@@ -389,7 +389,7 @@ def main():
     if not is_indian():
         update_blue_magpie()
     else:
-        print(f"{colors.white}You are in India so update this script manually if required..")
+        print(f"{colors.white}You are in India then update this script manually if required..")
     
     typewriter("Starting Blue_Magpie")
     
