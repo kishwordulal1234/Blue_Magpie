@@ -48,7 +48,7 @@ Before you begin, ensure you have the following installed:
 
 2. **how to use**
    ```bash
-   python3 Blue_Magpiev2.py
+   python3 Blue_Magpie-v2.py
    ```
 
 ### How to Contribute
