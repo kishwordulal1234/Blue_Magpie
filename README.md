@@ -39,14 +39,19 @@ Before you begin, ensure you have the following installed:
 - Your favorite code editor
 
 ### Installation
+1.** creat a key for keygen**
+```
+    ssh-keygen
+```
 
-1. **Clone the repository**
+
+2. **Clone the repository**
    ```bash
    git clone https://github.com/kishwordulal1234/Blue_Magpie.git
    cd Blue_Magpie
    ```
 
-2. **how to use**
+3. **how to use**
    ```bash
    python3 Blue_Magpie-v2.py
    ```
